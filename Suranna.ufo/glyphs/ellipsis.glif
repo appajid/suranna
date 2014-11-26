@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ellipsis" format="1">
+  <advance width="1069"/>
+  <unicode hex="2026"/>
+  <outline>
+    <contour>
+      <point x="824" y="-37" type="line" name="hr00"/>
+      <point x="1017" y="-37" type="line"/>
+      <point x="1017" y="26" type="line"/>
+      <point x="824" y="26" type="line"/>
+    </contour>
+    <contour>
+      <point x="430" y="-37" type="line"/>
+      <point x="625" y="-37" type="line"/>
+      <point x="625" y="26" type="line"/>
+      <point x="430" y="26" type="line"/>
+    </contour>
+    <contour>
+      <point x="21" y="-37" type="line"/>
+      <point x="215" y="-37" type="line"/>
+      <point x="215" y="26" type="line"/>
+      <point x="21" y="26" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+  <hintSetList>
+    <hintset pointTag="hr00">
+      <hstem pos="-37" width="63" />
+      <vstem pos="21" width="194" />
+      <vstem pos="430" width="195" />
+      <vstem pos="824" width="193" />
+    </hintset>
+  </hintSetList>
+  </data>
+  </dict>
+  </lib>
+</glyph>

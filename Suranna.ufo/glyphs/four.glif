@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="four" format="1">
+  <advance width="529"/>
+  <unicode hex="0034"/>
+  <outline>
+    <contour>
+      <point x="320" y="563" type="line" name="hr00"/>
+      <point x="320" y="219" type="line"/>
+      <point x="69" y="219" type="line"/>
+    </contour>
+    <contour>
+      <point x="387" y="-4" type="line"/>
+      <point x="387" y="164" type="line"/>
+      <point x="488" y="164" type="line"/>
+      <point x="488" y="219" type="line"/>
+      <point x="387" y="219" type="line"/>
+      <point x="387" y="654" type="line"/>
+      <point x="346" y="654" type="line"/>
+      <point x="33" y="222" type="line"/>
+      <point x="33" y="164" type="line"/>
+      <point x="320" y="164" type="line"/>
+      <point x="320" y="-4" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+  <hintSetList>
+    <hintset pointTag="hr00">
+      <hstem pos="164" width="55" />
+      <vstem pos="33" width="36" />
+      <vstem pos="320" width="67" />
+    </hintset>
+  </hintSetList>
+  </data>
+  </dict>
+  </lib>
+</glyph>
